@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  overflow-x: auto;
+}
+
+.raw {
+  background: powderblue;
+}
